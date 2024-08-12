@@ -1,5 +1,5 @@
 ## Demo
-[![Tugasku Demo](https://img.shields.io/badge/Tugasku-Demo-9cf?style=flat-square&logo=vercel&logoColor=white)](https://tugasku.vercel.app)
+[![Tugasku Demo](https://img.shields.io/badge/Tugasku-Demo-9cf?style=flat-square&logo=vercel&logoColor=white)](https://tugasku-jasa-joki-tugas.vercel.app/)
 
 **Tugasku** is a task assistance platform designed to help students complete various academic assignments. With an intuitive user interface and comprehensive features, Tugasku is committed to providing the best service to its customers.
 
